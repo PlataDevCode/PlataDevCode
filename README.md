@@ -1,8 +1,30 @@
-## 🛠️ Tech Stack
+<h2 align="center"> Tech Stack</h2>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <h3>🧠 Backend & Core</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,jest" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>☁️ Cloud & Serverless <sup>(Learning)</sup></h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker" />
+      <br/><br/>
+      <em>Currently focused on building AWS Lambda–based backends using Serverless Framework and DynamoDB.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,angular,html,css" />
+    </td>
+  </tr>
+</table>
