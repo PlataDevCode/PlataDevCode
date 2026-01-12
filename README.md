@@ -1,30 +1,5 @@
-<h2 align="center"> Tech Stack</h2>
+## 👋 About Me & 🧩 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="400">
-      <h3>🧠 Backend & Core</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,jest" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>☁️ Cloud & Serverless <sup>(Learning)</sup></h3>
-      <img src="https://skillicons.dev/icons?i=aws,docker" />
-      <br/><br/>
-      <em>Currently focused on building AWS Lambda–based backends using Serverless Framework and DynamoDB.</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,angular,html,css" />
-    </td>
-  </tr>
-</table>
+| 👤 About Me | 🧩 Tech Stack |
+|------------|--------------|
+| **Alexander L. Plata**  <br/><br/> 🎓 **Computer Engineer**  <br/> 🧠 **Backend-first Full-Stack Developer**  <br/><br/> I enjoy designing **scalable backend systems**, applying **clean architectures**, and working with **Domain-Driven Design concepts**.  <br/><br/> 🚀 Currently **learning and applying Serverless architectures on AWS** through real-world projects.  <br/><br/> 📧 **Email:** platadevcode@gmail.com  <br/> 💼 **LinkedIn:** [alexander-l-plata](https://www.linkedin.com/in/alexander-l-plata-8a2950377/)  <br/> 🧑‍💻 **GitHub:** [PlataDevCode](https://github.com/PlataDevCode) | **🧠 Backend & Core**  <br/> [![Backend](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,jest)](https://skillicons.dev)  <br/><br/> **🗄️ Databases**  <br/> [![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)  <br/><br/> **☁️ Cloud & Serverless _(Currently Learning)_**  <br/> [![Cloud](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)  <br/> <sub>Hands-on experience with AWS Lambda, API Gateway, DynamoDB and Serverless Framework.</sub>  <br/><br/> **🎨 Frontend**  <br/> [![Frontend](https://skillicons.dev/icons?i=react,angular,html,css)](https://skillicons.dev) |
